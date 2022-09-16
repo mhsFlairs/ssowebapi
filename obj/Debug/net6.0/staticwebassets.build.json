@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mv+Lr6mqy2utJm0Xwcva/1QHjooKX5ipYQec2tLsk80=",
+  "Source": "SSOWebAPI",
+  "BasePath": "_content/SSOWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
